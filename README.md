@@ -1,16 +1,16 @@
-# storeapp
+# Store App 
 
-A new Flutter project.
+A simple Store App using Flutter
+# How It Works
 
-## Getting Started
+ 1. Run cd Store-App  command on your terminal 
+ 2. Run  dart pub get command on your terminal  to get all dependencies  used  
+ 3. Run flutter run on your terminal 
 
-This project is a starting point for a Flutter application.
+ # **Technologies**
 
-A few resources to get you started if this is your first Flutter project:
+>  Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ 
+![image](https://drive.google.com/uc?export=view&id=1liNnqysmYm5dpqu6_yn4dud70Qn0eHQq)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
